@@ -9,11 +9,11 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
             <img 
-              src="https://www.strongmeropower.com/wp-content/uploads/2024/12/logo.png" 
+              src="https://www.strongmeropower.com/wp-content/uploads/2024/12/safelogo.png" 
               alt="SafeWeb5 Logo" 
               className="h-10 w-auto"
             />
-            <span className="text-[#6ac478] text-xl font-bold">SafeWeb5</span>
+            <span className="text-[#6ac478] text-xl font-bold">por:webcincodev</span>
           </div>
           
           <div className="hidden md:flex items-center space-x-6">
