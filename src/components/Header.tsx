@@ -13,7 +13,7 @@ export default function Header() {
               alt="SafeWeb5 Logo" 
               className="h-10 w-auto"
             />
-            <span className="text-[#6ac478] text-xl font-bold">por:webcincodev</span>
+            <span className="text-[#6ac478] text-xl font-bold"></span>
           </div>
           
           <div className="hidden md:flex items-center space-x-6">
